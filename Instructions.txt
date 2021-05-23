@@ -3,3 +3,5 @@ Instructions:
 2. Train the model using "rasa train" command in terminal after activating rasa environment
 3. Run the command to activate api "rasa run -m models --enable-api --cors "*" --debug"
 4. Open another terminal and activate rasa action server using command "rasa run actions"
+5. When the two servers are up and running, open the index.html file from (UI/index.html) in browser
+6. Talk to bot
